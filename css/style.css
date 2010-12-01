@@ -1,0 +1,36 @@
+#wrapper {
+	background: #fff;
+	box-shadow: 0px 0px 20px #999;
+	-moz-box-shadow: 0px 0px 20px #999;
+	-webkit-box-shadow: 0px 0px 20px #999;
+}
+table {
+	margin: 10px auto;
+	border-top: 1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+}
+th {
+	background: #ececec;
+}
+td, th {
+	border-right: 1px solid #e0e0e0;
+	border-bottom: 1px solid #e0e0e0;
+}
+a {
+	color: #357;
+	text-decoration: none;
+	border-bottom: 1px dotted #357;
+	padding: 0 2px;
+	margin: 0 -2px;
+}
+a:hover {
+	background: #e9f0fc;
+}
+.dbinfo {
+	background: #e9f0fc;
+	color: #567;
+	font-family: monospace;
+	padding: 20px;
+	margin-bottom: 10px;
+	border: 1px dashed #357;
+}
